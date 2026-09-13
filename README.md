@@ -2,8 +2,8 @@
 <h3 align="center">Mahasiswa Universitas Negeri Makassar</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Yage">
-    <img src="https://komarev.com/ghpvc/?username=Yage&label=Profile%20views&color=00FFFF&style=flat-square" alt="Yage's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=MReyga-12">
+    <img src="https://komarev.com/ghpvc/?username=MReyga-12&label=Profile%20views&color=00FFFF&style=flat-square" alt="MReyga-12's profile views" />
   </a>
 </p>
 
@@ -28,13 +28,13 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/Yage">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yage&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="Yage's GitHub Stats" />
+  <a href="https://github.com/MReyga-12">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MReyga-12&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="MReyga-12's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Yage&theme=merko&hide_border=true&cache_seconds=86400" alt="Yage's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=MReyga-12&theme=merko&hide_border=true&cache_seconds=86400" alt="MReyga-12's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Yage&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="ReygaMulya's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=MReyga-12&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="ReygaMulya's GitHub Trophies" />
 </p>
 
 
@@ -62,8 +62,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Yage">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yage&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/MReyga-12">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MReyga-12&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
